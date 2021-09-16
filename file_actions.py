@@ -14,3 +14,5 @@ def calc_sum_of_numbers_in_file(filename: str) -> int:
     return sum
 
 
+# Edit in main
+print(2)
