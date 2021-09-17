@@ -1,0 +1,85 @@
+[33mcommit 031fd7522b2e67634f64acb9976d0077dc028007[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: d39808a 1c4a820
+Author: Maigari Timothy <47124485+smat-T@users.noreply.github.com>
+Date:   Fri Sep 17 01:02:38 2021 +0100
+
+    Resolved conflict
+
+[33mcommit 1c4a820005d6a30b0b1be23eda623786795899dc[m[33m ([m[1;32mbranch2[m[33m)[m
+Author: Maigari Timothy <47124485+smat-T@users.noreply.github.com>
+Date:   Fri Sep 17 00:59:53 2021 +0100
+
+    Made a change in file actions on branch2
+
+[33mcommit d39808a485cb7c1e7305ec882720cff88a9ec8e9[m
+Author: Maigari Timothy <47124485+smat-T@users.noreply.github.com>
+Date:   Fri Sep 17 00:58:19 2021 +0100
+
+    Made changes to file actions on main
+
+[33mcommit 85415c0036d15c404a814568245fe3fb52da9d51[m
+Author: Maigari Timothy <47124485+smat-T@users.noreply.github.com>
+Date:   Fri Sep 17 00:56:25 2021 +0100
+
+    MAde change in branch2:
+
+[33mcommit 6ae38f255523c4748f9b8b37a0684ebaf6b6169c[m
+Author: Maigari Timothy <47124485+smat-T@users.noreply.github.com>
+Date:   Fri Sep 17 00:51:38 2021 +0100
+
+    Made change in main.py
+
+[33mcommit 544c72d93160bf8fb8d0df615d8dc13c77ad0f0b[m
+Author: Maigari Timothy <47124485+smat-T@users.noreply.github.com>
+Date:   Fri Sep 17 00:41:18 2021 +0100
+
+    Testing commit
+
+[33mcommit be79db42ef847a5467091178cb99d706a2112106[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Daniel Laufer <lauferkdaniel@gmail.com>
+Date:   Sat Sep 11 15:59:32 2021 -0400
+
+    updated readme with a link to the workshop slides
+
+[33mcommit f9bf384f82bacabb8e0f12f347f9dc5e82777cd6[m
+Author: Daniel Laufer <lauferkdaniel@gmail.com>
+Date:   Fri Sep 10 16:10:33 2021 -0400
+
+    removed changes from when I was messing with merge
+
+[33mcommit 0b51acc5ccc982adbafb97785c8e3d54653fd831[m
+Merge: cc9fb54 5ebf88b
+Author: Daniel Laufer <lauferkdaniel@gmail.com>
+Date:   Fri Sep 10 16:09:39 2021 -0400
+
+    resolved conflict
+
+[33mcommit 5ebf88bc6f73b0c7a04f82f9b54b563d7dcbe763[m
+Author: Daniel Laufer <lauferkdaniel@gmail.com>
+Date:   Fri Sep 10 16:07:57 2021 -0400
+
+    trying to createa a conflict
+
+[33mcommit cc9fb54111309017ebfa78a6456a699b5d615fff[m
+Author: Daniel Laufer <lauferkdaniel@gmail.com>
+Date:   Fri Sep 10 16:06:12 2021 -0400
+
+    creating merge conflict
+
+[33mcommit 3c194762952d7067a6fb6049fff706e54b7eb9d2[m
+Author: Daniel Laufer <lauferkdaniel@gmail.com>
+Date:   Fri Sep 10 16:00:00 2021 -0400
+
+    testing vscode integreation on github
+
+[33mcommit e54e9e258daf92fb76b2c44c78ee8875aa01ca65[m
+Author: Daniel Laufer <lauferkdaniel@gmail.com>
+Date:   Sat Sep 4 16:01:57 2021 -0400
+
+    initial commit
+
+[33mcommit 66961e010bcd3b592728cb7b581fe4156c6fc8e3[m
+Author: Daniel Laufer <lauferkdaniel@gmail.com>
+Date:   Sat Sep 4 15:58:20 2021 -0400
+
+    Initial commit
